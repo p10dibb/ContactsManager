@@ -1,0 +1,7 @@
+﻿  user.cpp
+c:\users\pauld\onedrive\desktop\cpts\side project\contact_storagev2\contact_storagev2\user.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\pauld\onedrive\desktop\cpts\side project\contact_storagev2\contact_storagev2\user.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\pauld\onedrive\desktop\cpts\side project\contact_storagev2\contact_storagev2\user.cpp(71): warning C4018: '<': signed/unsigned mismatch
+c:\users\pauld\onedrive\desktop\cpts\side project\contact_storagev2\contact_storagev2\user.cpp(79): warning C4018: '<': signed/unsigned mismatch
+  contact_StorageV2.vcxproj -> C:\Users\pauld\OneDrive\Desktop\cpts\side project\contact_StorageV2\Debug\contact_StorageV2.exe
+  contact_StorageV2.vcxproj -> C:\Users\pauld\OneDrive\Desktop\cpts\side project\contact_StorageV2\Debug\contact_StorageV2.pdb (Full PDB)
